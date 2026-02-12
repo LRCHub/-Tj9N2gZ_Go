@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Reyy",
+  "base_artist": "t-Ace",
+  "createdAt": "2026-02-12T15:01:46.320633Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Reyy",
+      "artist": "t-Ace",
+      "has_synced": true,
+      "path": "select/01_Reyy_t-Ace.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Reyy",
+      "artist": "t-Ace",
+      "has_synced": false,
+      "path": "select/pl_01_Reyy_t-Ace.txt"
+    }
+  ]
+}
